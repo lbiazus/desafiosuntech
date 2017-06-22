@@ -41,7 +41,7 @@
 				<div class="form-group">
 					<label for="password" class="col-sm-4 control-label">Password:</label>
 					<div class="col-sm-4">
-				    	<sf:password path="password" cssClass="form-control" maxlength="20"/>
+				    	<sf:password path="password" cssClass="form-control" maxlength="20" showPassword="true"/>
 				    </div>
 			  	</div>
 			  	
